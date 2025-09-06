@@ -1,0 +1,12 @@
+:root {
+    --color-gray: #E6E6E6;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
